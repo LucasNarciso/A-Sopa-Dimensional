@@ -32,7 +32,7 @@ function Sobre () {
 
                 <Janela>
 
-                    adasdas
+                    ...
                 
                 </Janela>
                 

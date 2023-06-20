@@ -43,7 +43,7 @@ function Principal () {
 
                     </DivDivisoria>
 
-                    <TextoGeral> Seja Bem Vindo(a) à Sopa Dimensional!. <br/> <br/> Uma ideia maluca tentando sair da mente de um jovem meio doido. Já Já teremos o primeiro episódio disponível, assim que eu terminar ele '-'. </TextoGeral>
+                    <TextoGeral> Seja Bem Vindo(a) à Sopa Dimensional!. <br/> <br/> Uma ideia maluca tentando sair da mente de um jovem perdido. O primeiro episódio ainda não está disponível... </TextoGeral>
 
                     <DivDivisoria>
                         
@@ -56,7 +56,7 @@ function Principal () {
                         
                     </DivDivisoria>
 
-                    <TextoGeral> O primeiro episódio ainda está sendo escrito, portanto não temos Último Episodio.</TextoGeral>
+                    <TextoGeral> ...</TextoGeral>
 
                     <DivDivisoria>
                         
@@ -69,7 +69,7 @@ function Principal () {
                         
                     </DivDivisoria>
 
-                    <TextoGeral>Em resumo, nesse site encontrará todos os episódios Oficiais que essa série possui. Ao decorrer do tempo serão lançados mais episódios, fique ligado pra não perder. Para saber mais, vá para <AtalhoSobre onClick={() => {irParaPaginaSobre(navigate)}}>sobre</AtalhoSobre>. </TextoGeral>
+                    <TextoGeral>Em resumo, nesse site encontrará todos os episódios Oficiais da série. Ao decorrer do tempo serão lançados mais episódios, fique ligado pra não perder.<AtalhoSobre onClick={() => {irParaPaginaSobre(navigate)}}>Saiba mais</AtalhoSobre>. </TextoGeral>
 
                 </Janela>
                 
