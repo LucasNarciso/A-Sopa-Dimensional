@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/A-Sopa-Dimensional/static/js/main.7c6aab7b.js",
+    "main.js": "/A-Sopa-Dimensional/static/js/main.50207afd.js",
     "index.html": "/A-Sopa-Dimensional/index.html",
     "static/media/Fundo.svg": "/A-Sopa-Dimensional/static/media/Fundo.caf4d5d174c96fb765760c8fa11923c1.svg",
-    "main.7c6aab7b.js.map": "/A-Sopa-Dimensional/static/js/main.7c6aab7b.js.map"
+    "main.50207afd.js.map": "/A-Sopa-Dimensional/static/js/main.50207afd.js.map"
   },
   "entrypoints": [
-    "static/js/main.7c6aab7b.js"
+    "static/js/main.50207afd.js"
   ]
 }
